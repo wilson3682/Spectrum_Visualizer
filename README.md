@@ -8,10 +8,11 @@ Parts you need:
 * Breadboard
 * Buttons
 * Ardiuno wires
+* WS2812B Addressable LED Strip
 
 ## Just follow these steps:
 1. Put the Spectrum Shield ontop of the Arduino
-2. Connect al the parts as shown in the picture
+2. Connect al the parts as shown in the picture (5V to 5V, Pin 13 to Data in, GND to GND)
 3. Upload the Sketch the Arduino Uno. (I added more instructions about the sketch in the code)
 4. Connect your Music Device (like a smartphone) to input on the spectrum shield.
 5. Connect your Speaker to the Output port on the spectrum shield (so you can hear your music)
