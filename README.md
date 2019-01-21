@@ -1,5 +1,5 @@
 # Spectrum_Visualizer
-A dope looking Spectrum Analyzer using the Arduino UNO
+A dope looking Spectrum Analizer using the Arduino UNO
 # How to Do it
 Parts you need:
 * Arduino Uno
