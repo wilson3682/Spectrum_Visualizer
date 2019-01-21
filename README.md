@@ -22,3 +22,6 @@ Subscribe to him if you want: https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMk
 
 ## Curcuit:
 ![spectrum visualizer](https://user-images.githubusercontent.com/46902616/51494418-e2563800-1db8-11e9-8da7-0b7f9ca24033.PNG)
+
+### Complete Curcuit:
+![complete build 2](https://user-images.githubusercontent.com/46902616/51494527-319c6880-1db9-11e9-9a52-4e962b5fdaa4.jpg)
