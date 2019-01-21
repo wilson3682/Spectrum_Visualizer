@@ -20,7 +20,7 @@ Parts you need:
 Also huge thanks to Just Call Me Koko. This project is based on his stuff
 Subscribe to him if you want: https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q
 
-### Curcuit:
+### Circuit:
 ![spectrum visualizer](https://user-images.githubusercontent.com/46902616/51494418-e2563800-1db8-11e9-8da7-0b7f9ca24033.PNG)
 
 #### Complete Curcuit:
