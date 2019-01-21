@@ -9,7 +9,7 @@ Parts you need:
 * Buttons
 * Ardiuno wires
 
-##Just follow these steps:
+## Just follow these steps:
 1. Put the Spectrum Shield ontop of the Arduino
 2. Connect al the parts as shown in the picture
 3. Upload the Sketch the Arduino Uno. (I added more instructions about the sketch in the code)
